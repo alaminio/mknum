@@ -1,0 +1,22 @@
+{
+  "name": "mknum",
+  "version": "0.0.1",
+  "description": "convert anything to Number type",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m3alamin/mknum.git"
+  },
+  "keywords": [
+    "Number"
+  ],
+  "author": "MD AL AMIN <h3mdsa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m3alamin/mknum/issues"
+  },
+  "homepage": "https://github.com/m3alamin/mknum#readme"
+}
